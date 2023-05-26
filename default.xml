@@ -2,7 +2,7 @@
 <manifest>
   <remote  name="git"
            fetch="https://github.com/mr-nathan2208/"
-           review="ssh://nathan1005@43.205.94.72:29418/" />
+           review="ssh://nathan1005@43.205.194.207:29418/" />
 
   <default revision="master"
            remote="git" />
